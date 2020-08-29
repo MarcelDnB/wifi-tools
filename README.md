@@ -1,5 +1,5 @@
 # WIFI TOOLS
-## Herramientas wifi en bash
+## Herramientas wifi en batch
 
 ## Funciones
 1. Crear hotspot
