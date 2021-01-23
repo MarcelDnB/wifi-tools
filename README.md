@@ -1,5 +1,5 @@
 # WIFI TOOLS
-## Herramientas wifi en batch
+## Wifi tools in batch
 
 ## Funciones
 1. Crear hotspot
